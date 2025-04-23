@@ -1,23 +1,18 @@
 const resources = [
   {
+    name: "Centro de Apoio à Pessoa com Deficiência - Prefeitura de SP",
+    type: "Serviço público",
+    link: "https://www.prefeitura.sp.gov.br/cidade/secretarias/pessoa_com_deficiencia/"
+  },
+  {
+    name: "Cartilha da Acessibilidade – Governo Federal",
+    type: "Informação em português",
+    link: "https://www.gov.br/mdh/pt-br/acesso-a-informacao/acoes-e-programas/cartilha-de-acessibilidade"
+  },
+  {
     name: "LibrasGov",
     type: "Comunicação em Libras (PT-BR)",
     link: "https://www.gov.br/educacao/libras"
-  },
-  {
-    name: "Sign Language Interpreting Services",
-    type: "Comunicação em ASL (EN)",
-    link: "https://www.nad.org/resources/american-sign-language/"
-  },
-  {
-    name: "Cartilha da Acessibilidade",
-    type: "Informação em português",
-    link: "https://www.gov.br/mdh/cartilha-acessibilidade"
-  },
-  {
-    name: "AccessAble",
-    type: "Guia de locais acessíveis (EN)",
-    link: "https://www.accessable.co.uk"
   },
   {
     name: "Be My Eyes",
@@ -25,9 +20,14 @@ const resources = [
     link: "https://www.bemyeyes.com/"
   },
   {
-    name: "Wheelmap",
-    type: "Mapa colaborativo de acessibilidade (multi-idioma)",
-    link: "https://wheelmap.org"
+    name: "Inclusão SP – Guia de acessibilidade do Governo do Estado",
+    type: "Mapa e informações",
+    link: "https://www.inclusaosp.org.br"
+  },
+  {
+    name: "iComunica – App para comunicação alternativa",
+    type: "Tecnologia assistiva",
+    link: "https://icomunica.org/"
   }
 ];
 

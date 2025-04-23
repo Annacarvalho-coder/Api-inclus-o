@@ -1,59 +1,65 @@
 const accessiblePlaces = [
   {
-    name: "Parque Central",
+    name: "Parque Ibirapuera",
+    city: "São Paulo",
     type: "Parque",
     accessible: true,
     features: [
-      "rampa de acesso",
-      "banheiro adaptado",
-      "sinalização tátil",
-      "trilhas com piso firme",
-      "áudio-guia em português e inglês"
+      "rampas de acesso",
+      "banheiros adaptados",
+      "piso tátil",
+      "bicicletas adaptadas",
+      "áudio-guia no Museu Afro Brasil"
     ]
   },
   {
-    name: "Biblioteca Municipal",
-    type: "Cultura",
+    name: "Museu do Futebol",
+    city: "São Paulo",
+    type: "Museu",
     accessible: true,
     features: [
-      "elevador com botões em braile",
-      "sinalização bilíngue (PT/EN)",
-      "atendimento em Libras",
-      "áudio descrição de acervos",
-      "computadores com leitor de tela"
+      "elevadores",
+      "rampas",
+      "audiodescrição",
+      "vídeos com Libras",
+      "sinalização tátil e visual"
     ]
   },
   {
-    name: "Museu da Acessibilidade",
-    type: "Cultura",
+    name: "Biblioteca de São Paulo (Parque da Juventude)",
+    city: "São Paulo",
+    type: "Biblioteca",
     accessible: true,
     features: [
-      "visitas guiadas com intérprete de Libras",
-      "materiais impressos em braile",
-      "legendas multilíngues",
-      "mapas táteis do espaço",
-      "sistema de audiodescrição"
+      "acervo em braile",
+      "livros falados",
+      "rampas de acesso",
+      "elevadores",
+      "mesas adaptadas"
     ]
   },
   {
-    name: "Rodoviária Central",
+    name: "Terminal Rodoviário Tietê",
+    city: "São Paulo",
     type: "Transporte",
     accessible: true,
     features: [
-      "plataformas com elevadores",
+      "plataformas com rampas",
+      "atendimento prioritário",
       "sinalização visual e sonora",
-      "guichês com atendimento prioritário",
-      "anúncios de voz em múltiplos idiomas"
+      "banheiros adaptados"
     ]
   },
   {
-    name: "Café Inclusivo",
-    type: "Alimentação",
+    name: "Sesc Vila Mariana",
+    city: "São Paulo",
+    type: "Centro cultural e esportivo",
     accessible: true,
     features: [
-      "cardápio em braile e digital com voz",
-      "atendimento bilíngue",
-      "rampa de acesso e mesas adaptadas"
+      "piscina com acesso por elevador hidráulico",
+      "atividades inclusivas",
+      "atendimento em Libras",
+      "sinalização visual"
     ]
   }
 ];

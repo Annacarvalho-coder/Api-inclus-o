@@ -1,14 +1,14 @@
 const tips = [
-  "Rampas devem ter inclinação máxima de 8.33% e corrimãos em ambos os lados.",
-  "Sinalização em braile deve estar disponível em elevadores, corrimãos e banheiros.",
-  "Calçadas devem incluir piso tátil direcional e de alerta com contraste visual.",
-  "Menus em braile ou digitais com leitor de tela devem ser oferecidos em restaurantes.",
-  "É essencial haver intérpretes de Libras ou suporte em Libras nos serviços públicos (BR).",
-  "Sites e aplicativos devem seguir diretrizes de acessibilidade (WCAG 2.1).",
-  "A sinalização de emergência deve incluir alertas sonoros e visuais.",
-  "Transporte público deve ter áreas para cadeiras de rodas e anúncios em áudio.",
-  "Espaços culturais devem incluir legendas, audiodescrição e tradução simultânea.",
-  "Ofereça versões multilíngues de conteúdos acessíveis sempre que possível."
+  "Portas devem ter largura mínima de 80cm para permitir passagem de cadeiras de rodas (NBR 9050).",
+  "Rampas devem ter inclinação máxima de 8.33% e corrimão duplo dos dois lados.",
+  "Piso tátil deve ser utilizado em calçadas, entradas e áreas de circulação.",
+  "Informações visuais devem ser complementadas com áudio e braile em locais públicos.",
+  "Banheiros acessíveis devem ter barras de apoio, espaço para giro e lavatório rebaixado.",
+  "Sinalização deve ter contraste visual e ser legível para pessoas com baixa visão.",
+  "Aplicativos e sites devem seguir as diretrizes WCAG para acessibilidade digital.",
+  "Serviços públicos devem oferecer atendimento em Libras ou intérprete sob demanda.",
+  "Assentos preferenciais devem ser sinalizados e próximos das entradas.",
+  "Elevadores devem ter botoeiras em braile e indicação sonora dos andares."
 ];
 
 export default tips;
