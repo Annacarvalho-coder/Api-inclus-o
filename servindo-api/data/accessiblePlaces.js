@@ -238,6 +238,19 @@ const accessiblePlaces = [
       "sinalização visual",
       "elevadores com braile"
     ]
+    
+  },
+  {
+    name: "MIS - Museu da Imagem e do Som",
+    city: "São Paulo",
+    type: "Museu",
+    accessible: true,
+    features: [
+      "elevador",
+      "rampas",
+      "salas com audiodescrição",
+      "atendimento com intérprete de Libras"
+    ]
   }
 ];
 
